@@ -1,5 +1,5 @@
-![JustBlueSimple](https://github.com/user-attachments/assets/a58a416e-c594-40fa-9e36-9264542ecd24)
-![JustBlueDoble](https://github.com/user-attachments/assets/f682b2c4-e63f-4382-a418-725a599b8b58)
+![Ju![JustBlueSimple](https://github.com/user-attachments/assets/8b6de460-ea0a-40e4-8063-977fa56d278c)
+stBlueDoble](https://github.com/user-attachments/assets/f682b2c4-e63f-4382-a418-725a599b8b58)
 ![JustBBQSimple](https://github.com/user-attachments/assets/09ed8c03-1a3a-4307-abdb-d33fb11c7286)
 ![JustBaconSimple](https://github.com/user-attachments/assets/40833ad0-eb97-410d-9dc6-989ca5275b2d)
 ![JustBaconDoble](https://github.com/user-attachments/assets/933af301-1887-4abc-a84c-9064f2354206)
