@@ -3,7 +3,7 @@
         "nombre": "Just Bacon Simple",
         "precio": "$8.000",
         "signo": "hamburguesa",
-        "signo2": "Simple",
+        "tipo": "Simple",
         "foto": "https://github.com/user-attachments/assets/40833ad0-eb97-410d-9dc6-989ca5275b2d",
         "github": "https://github.com/marrieta1",
         "descr": "Carne Smash, Rúcula, Bacon, Fondue de Mozzarella, Champiñones, Cebolla Crispy, Salsa Aioli y Honey Mustard."
