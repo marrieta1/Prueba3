@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Just Burguer</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
+    </head>
+    <body>
+        <div class="collapse text-bg-dark" id="navbarHeader">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-8 col-md-7 py-4">
+                        <h4>¡Bienvenidos a Just Burger!🍔</h4>
+                        <p class="text-white">
+                            Aquí, cada hamburguesa es una experiencia única. Nos especializamos en servir hamburguesas gourmet hechas con ingredientes frescos y de alta calidad, desde la carne jugosa hasta los vegetales recién cortados y los panes horneados localmente.
+                        </p>
+                    </div>
+                    <div class="col-sm-4 offset-md-1 py-4">
+                        <h4>Contacto</h4>
+                        <ul class="list-unstyled">
+                            <li><a href="https://www.ubereats.com/cl/brand-city/santiago-rm/just-burger?srsltid=AfmBOooZfd05DZMTONayXkDezrn98uxjdbjhj3KcJH8H1z5CHpoSy6dN">UberEats</a></li>
+                        <li><a href="https://www.instagram.com/justburgercl/">Instagram</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="navbar navbar-dark bg-dark shadow-sm">
+            <div class="container">
+                <a href="#" class="navbar-brand d-flex align-items-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-bug-fill me-2" viewBox="0 0 16 16">
+                        <path d="M4.978.855a.5.5 0 1 0-.956.29l.41 1.352A5 5 0 0 0 3 6h10a5 5 0 0 0-1.432-3.503l.41-1.352a.5.5 0 1 0-.956-.29l-.291.956A5 5 0 0 0 8 1a5 5 0 0 0-2.731.811l-.29-.956z" />
+                        <path
+                            d="M13 6v1H8.5v8.975A5 5 0 0 0 13 11h.5a.5.5 0 0 1 .5.5v.5a.5.5 0 1 0 1 0v-.5a1.5 1.5 0 0 0-1.5-1.5H13V9h1.5a.5.5 0 0 0 0-1H13V7h.5A1.5 1.5 0 0 0 15 5.5V5a.5.5 0 0 0-1 0v.5a.5.5 0 0 1-.5.5zm-5.5 9.975V7H3V6h-.5a.5.5 0 0 1-.5-.5V5a.5.5 0 0 0-1 0v.5A1.5 1.5 0 0 0 2.5 7H3v1H1.5a.5.5 0 0 0 0 1H3v1h-.5A1.5 1.5 0 0 0 1 11.5v.5a.5.5 0 1 0 1 0v-.5a.5.5 0 0 1 .5-.5H3a5 5 0 0 0 4.5 4.975"
+                        />
+                    </svg>
+                    <strong>JB</strong>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </div>
+
+        <header class="container">
+            <h1 class="display-1 my-3"></h1>
+            <a class="my-2 btn btn-outline-secondary btn-small" href="index.html">‹ Volver al Menú</a>
+        </header>
+
+        <div class="container">
+            <div class="row">
+                <main class="col-lg-8 me-auto"></main>
+
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+                <script>
+                    //vamos a buscar un dato
+
+                    var x = new URLSearchParams(window.location.search).get("data");
+
+                    const autoria = document.querySelector("h1");
+
+                    autoria.innerHTML = '<a href="index.html" class="link-dark link-underline-light link-underline-opacity-10-hover">Just Burguer</a>';
+
+                    const principal = document.querySelector("main");
+
+                    const seleccion = document.querySelector("select");
+
+                    //acá voy por el JSON
+
+                    async function astros() {
+                        const consulta = await fetch("https://raw.githubusercontent.com/marrieta1/Prueba3/refs/heads/main/datos.json");
+                        const data = await consulta.json();
+                        console.log(data);
+
+                        if (x) {
+                            principal.innerHTML += `<h2>${data[x].nombre}</h2><p>${data[x].precio}</p><p>${data[x].descr}</p><img src="${data[x].foto}" class="w-100">
+                            `;
+                        } else {
+                            window.location.href = "index.html";
+                        }
+                    }
+                    astros().catch((error) => console.error(error));
+                </script>
+            </div>
+        </div>
+    </body>
+</html>
