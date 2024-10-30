@@ -2,7 +2,7 @@
     {
         "nombre": "Just Bacon Simple",
         "precio": "$8.000",
-        "signo": "hamburguesa",
+        "signo": "Hamburguesa",
         "tipo": "Simple",
         "foto": "https://github.com/user-attachments/assets/40833ad0-eb97-410d-9dc6-989ca5275b2d",
         "github": "https://github.com/marrieta1",
@@ -11,7 +11,8 @@
     {
         "nombre": "Just Bacon Doble",
         "precio": "$10.200",
-        "signo": "hamburguesa",
+        "signo": "Hamburguesa",
+        "tipo": "Simple",
         "foto": "https://github.com/user-attachments/assets/933af301-1887-4abc-a84c-9064f2354206",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Doble Fondue de Mozzarella, Bacon, Rúcula, Champiñones, Cebolla Crispy, Salsa Aioli y Honey Mustard ."
@@ -19,7 +20,8 @@
     {
         "nombre": "Just Blue Simple",
         "precio": "$7.500",
-        "signo": "hamburguesa",
+        "signo": "Hamburguesa",
+        "tipo": "Simple",
         "foto": "https://github.com/user-attachments/assets/8b6de460-ea0a-40e4-8063-977fa56d278c",
         "github": "https://github.com/marrieta1",
         "descr": "Carne Smash, Fondue de Queso Azul, Champiñones, Cebolla Grillada, Cebolla Crispy, Rúcula, Sasa Aioli y Honey Mustard."
@@ -28,6 +30,7 @@
         "nombre": "Just Blue Doble",
         "precio": "$9.700",
         "signo": "hamburguesa",
+        "tipo": "Simple",
         "foto": "https://github.com/user-attachments/assets/f682b2c4-e63f-4382-a418-725a599b8b58",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Doble Fondue de Queso Azul, Champiñones, Cebolla Grillada, Cebolla Crispy, Rúcula, Salsa Aioli y Honey Mustard Sauce."
@@ -35,7 +38,8 @@
     {
         "nombre": "Just BBQ Simple",
         "precio": "$7.200",
-        "signo": "hamburguesa",
+        "signo": "Hamburguesa",
+        "tipo": "Simple",
         "foto": "https://github.com/user-attachments/assets/09ed8c03-1a3a-4307-abdb-d33fb11c7286",
         "github": "https://github.com/marrieta1",
         "descr": "Carne Smash, Queso Cheddar, Bacon, Cebolla Grillada, Cebolla Crispy, Salsa Aioli y BBQ."
@@ -44,6 +48,7 @@
         "nombre": "Just BQQ Doble",
         "precio": "$9.400",
         "signo": "hamburguesa",
+        "tipo": "Simple",
         "foto": "https://github.com/user-attachments/assets/90662701-90c0-4875-9630-5087caa46a2d",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Doble Queso Cheddar, Bacon, Cebolla Grillada, Cebolla Crispy, Salsa Aioli y BBQ."
@@ -52,7 +57,8 @@
     {
         "nombre": "Just Orale Simple",
         "precio": "$7.200",
-        "signo": "hamburguesa",
+        "signo": "Hamburguesa",
+        "tipo": "Simple",
         "foto": "https://github.com/user-attachments/assets/c7761938-c004-4ab9-8e86-c07feffd0739",
         "github": "https://github.com/marrieta1",
         "descr": "Carne Smash, Queso Cheddar, Guacamole, Sour Cream, Aro de Cebolla y Salsa Aioli."
@@ -60,7 +66,8 @@
     {
         "nombre": "Cheddar Bacon Fries",
         "precio": "$4.900",
-        "signo": "papafritas",
+        "signo": "Papa fritas",
+        "tipo": "Especial",
         "foto": "https://github.com/user-attachments/assets/d03f3a97-b0df-41dc-a41b-4446d29429c9",
         "github": "https://github.com/marrieta1",
         "descr": "390 Gr de Crujientes Papas Fritas con Exquisita Salsa de Queso Cheddar derretido y Topping de Crispy Bacon."
@@ -68,7 +75,8 @@
     {
         "nombre": "CrunchyFries",
         "precio": "$3.190",
-        "signo": "papafritas",
+        "signo": "Papa fritas",
+        "tipo": "Para uno",
         "foto": "https://github.com/user-attachments/assets/280c1c16-4df5-4536-926c-4ae040f50b5c",
         "github": "https://github.com/marrieta1",
         "descr": "110 Gr de Papas Fritas con exterior crujiente e interior suave."
@@ -76,7 +84,7 @@
     {
         "nombre": "Just Classic Doble",
         "precio": "$9.000",
-        "signo": "hamburguesa",
+        "signo": "Hamburguesa",
         "foto": "https://github.com/user-attachments/assets/8d741553-f2f8-45ff-b25f-b80815d4a912",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Tomate, Lechuga, Queso Cheddar, Pepinillos y Salsa Just."
@@ -84,7 +92,8 @@
     {
         "nombre": "Bucket Just Fries",
         "precio": "$8.000",
-        "signo": "papafritas",
+        "signo": "Papa fritas",
+        "tipo": "Especial",
         "foto": "https://github.com/user-attachments/assets/afee4115-29ed-41c8-ba35-d41c589185b3",
         "github": "https://github.com/marrieta1",
         "descr": "Bucket edición limitada 350 Gr de las mejores papas fritas con exterior crujiente e interior suave."
@@ -92,7 +101,8 @@
     {
         "nombre": "American Fries",
         "precio": "$2.190",
-        "signo": "papafritas",
+        "signo": "Papa fritas",
+        "tipo": "Para uno",
         "foto": "https://github.com/user-attachments/assets/151c98b6-d1c3-4e80-9d8d-54a24aabddee",
         "github": "https://github.com/marrieta1",
         "descr": "110 Gr de Papas Fritas estilo Crinkle con exterior crujiente e interior suave."
