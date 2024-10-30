@@ -78,7 +78,7 @@
         "foto": "https://github.com/user-attachments/assets/d03f3a97-b0df-41dc-a41b-4446d29429c9",
         "github": "https://github.com/marrieta1",
         "descr": "390 Gr de Crujientes Papas Fritas con Exquisita Salsa de Queso Cheddar derretido y Topping de Crispy Bacon.",
-        "fotos": ["papas","tocino.jpg"],
+        "fotos": ["papas","tocino.jpg", "fotos","cheddar-2.jpg"],
     },    
     {
         "nombre": "CrunchyFries",
@@ -88,7 +88,6 @@
         "foto": "https://github.com/user-attachments/assets/280c1c16-4df5-4536-926c-4ae040f50b5c",
         "github": "https://github.com/marrieta1",
         "descr": "110 Gr de Papas Fritas con exterior crujiente e interior suave.",
-        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
     },
     {
         "nombre": "Just Classic Doble",
@@ -98,7 +97,7 @@
         "foto": "https://github.com/user-attachments/assets/8d741553-f2f8-45ff-b25f-b80815d4a912",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Tomate, Lechuga, Queso Cheddar, Pepinillos y Salsa Just.",
-        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
+        "fotos": ["tomate.jpg","lechuga.jpg","cheddar-2.jpg"],
     },
     {
         "nombre": "Bucket Just Fries",
@@ -108,7 +107,6 @@
         "foto": "https://github.com/user-attachments/assets/afee4115-29ed-41c8-ba35-d41c589185b3",
         "github": "https://github.com/marrieta1",
         "descr": "Bucket edición limitada 350 Gr de las mejores papas fritas con exterior crujiente e interior suave.",
-        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
     },
     {
         "nombre": "American Fries",
@@ -118,6 +116,4 @@
         "foto": "https://github.com/user-attachments/assets/151c98b6-d1c3-4e80-9d8d-54a24aabddee",
         "github": "https://github.com/marrieta1",
         "descr": "110 Gr de Papas Fritas estilo Crinkle con exterior crujiente e interior suave.",
-        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
-    }
 ] 
