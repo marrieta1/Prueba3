@@ -12,7 +12,7 @@
         "nombre": "Just Bacon Doble",
         "precio": "$10.200",
         "signo": "Hamburguesa",
-        "tipo": "Simple",
+        "tipo": "Doble",
         "foto": "https://github.com/user-attachments/assets/933af301-1887-4abc-a84c-9064f2354206",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Doble Fondue de Mozzarella, Bacon, Rúcula, Champiñones, Cebolla Crispy, Salsa Aioli y Honey Mustard ."
@@ -30,7 +30,7 @@
         "nombre": "Just Blue Doble",
         "precio": "$9.700",
         "signo": "hamburguesa",
-        "tipo": "Simple",
+        "tipo": "Doble",
         "foto": "https://github.com/user-attachments/assets/f682b2c4-e63f-4382-a418-725a599b8b58",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Doble Fondue de Queso Azul, Champiñones, Cebolla Grillada, Cebolla Crispy, Rúcula, Salsa Aioli y Honey Mustard Sauce."
@@ -48,7 +48,7 @@
         "nombre": "Just BQQ Doble",
         "precio": "$9.400",
         "signo": "hamburguesa",
-        "tipo": "Simple",
+        "tipo": "Doble",
         "foto": "https://github.com/user-attachments/assets/90662701-90c0-4875-9630-5087caa46a2d",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Doble Queso Cheddar, Bacon, Cebolla Grillada, Cebolla Crispy, Salsa Aioli y BBQ."
@@ -85,6 +85,7 @@
         "nombre": "Just Classic Doble",
         "precio": "$9.000",
         "signo": "Hamburguesa",
+        "tipo": "Doble",
         "foto": "https://github.com/user-attachments/assets/8d741553-f2f8-45ff-b25f-b80815d4a912",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Tomate, Lechuga, Queso Cheddar, Pepinillos y Salsa Just."
