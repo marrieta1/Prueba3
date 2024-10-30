@@ -7,6 +7,7 @@
         "foto": "https://github.com/user-attachments/assets/40833ad0-eb97-410d-9dc6-989ca5275b2d",
         "github": "https://github.com/marrieta1",
         "descr": "Carne Smash, Rúcula, Bacon, Fondue de Mozzarella, Champiñones, Cebolla Crispy, Salsa Aioli y Honey Mustard."
+        "fotos": ["tocino.jpg","chedar.jpg","champinones.jpg","rucula.jpg"],
     },
     {
         "nombre": "Just Bacon Doble",
@@ -16,6 +17,7 @@
         "foto": "https://github.com/user-attachments/assets/933af301-1887-4abc-a84c-9064f2354206",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Doble Fondue de Mozzarella, Bacon, Rúcula, Champiñones, Cebolla Crispy, Salsa Aioli y Honey Mustard ."
+        "fotos": ["tocino-2.jpg",".jpg","cheddar-2.jpg","rucula-2.jpg"],
     },
     {
         "nombre": "Just Blue Simple",
@@ -25,6 +27,7 @@
         "foto": "https://github.com/user-attachments/assets/8b6de460-ea0a-40e4-8063-977fa56d278c",
         "github": "https://github.com/marrieta1",
         "descr": "Carne Smash, Fondue de Queso Azul, Champiñones, Cebolla Grillada, Cebolla Crispy, Rúcula, Sasa Aioli y Honey Mustard."
+        "fotos": ["queso-azul.jpg","cebolla-2.jpg","champinones-2.jpg"],
     },
     {
         "nombre": "Just Blue Doble",
@@ -34,6 +37,7 @@
         "foto": "https://github.com/user-attachments/assets/f682b2c4-e63f-4382-a418-725a599b8b58",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Doble Fondue de Queso Azul, Champiñones, Cebolla Grillada, Cebolla Crispy, Rúcula, Salsa Aioli y Honey Mustard Sauce."
+        "fotos": ["queso-azul-2","cebolla","champinones"],
     },
     {
         "nombre": "Just BBQ Simple",
@@ -43,6 +47,7 @@
         "foto": "https://github.com/user-attachments/assets/09ed8c03-1a3a-4307-abdb-d33fb11c7286",
         "github": "https://github.com/marrieta1",
         "descr": "Carne Smash, Queso Cheddar, Bacon, Cebolla Grillada, Cebolla Crispy, Salsa Aioli y BBQ."
+        "fotos": ["tocino.jpg","cheddar-2.jpg","cebolla.jpg"],
     },
     {
         "nombre": "Just BQQ Doble",
@@ -52,6 +57,7 @@
         "foto": "https://github.com/user-attachments/assets/90662701-90c0-4875-9630-5087caa46a2d",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Doble Queso Cheddar, Bacon, Cebolla Grillada, Cebolla Crispy, Salsa Aioli y BBQ."
+        "fotos": ["tocino-2.jpg","chedar.jpg","cebolla-2.jpg"],
 
     },
     {
@@ -62,6 +68,7 @@
         "foto": "https://github.com/user-attachments/assets/c7761938-c004-4ab9-8e86-c07feffd0739",
         "github": "https://github.com/marrieta1",
         "descr": "Carne Smash, Queso Cheddar, Guacamole, Sour Cream, Aro de Cebolla y Salsa Aioli."
+        "fotos": ["guacamole.jpg","guacamole-2.jpg","cebolla.jpg"],
     },
     {
         "nombre": "Cheddar Bacon Fries",
@@ -71,6 +78,7 @@
         "foto": "https://github.com/user-attachments/assets/d03f3a97-b0df-41dc-a41b-4446d29429c9",
         "github": "https://github.com/marrieta1",
         "descr": "390 Gr de Crujientes Papas Fritas con Exquisita Salsa de Queso Cheddar derretido y Topping de Crispy Bacon."
+        "fotos": ["papas","tocino.jpg"],
     },    
     {
         "nombre": "CrunchyFries",
@@ -80,6 +88,7 @@
         "foto": "https://github.com/user-attachments/assets/280c1c16-4df5-4536-926c-4ae040f50b5c",
         "github": "https://github.com/marrieta1",
         "descr": "110 Gr de Papas Fritas con exterior crujiente e interior suave."
+        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
     },
     {
         "nombre": "Just Classic Doble",
@@ -89,6 +98,7 @@
         "foto": "https://github.com/user-attachments/assets/8d741553-f2f8-45ff-b25f-b80815d4a912",
         "github": "https://github.com/marrieta1",
         "descr": "Doble Carne Smash, Tomate, Lechuga, Queso Cheddar, Pepinillos y Salsa Just."
+        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
     },
     {
         "nombre": "Bucket Just Fries",
@@ -98,6 +108,7 @@
         "foto": "https://github.com/user-attachments/assets/afee4115-29ed-41c8-ba35-d41c589185b3",
         "github": "https://github.com/marrieta1",
         "descr": "Bucket edición limitada 350 Gr de las mejores papas fritas con exterior crujiente e interior suave."
+        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
     },
     {
         "nombre": "American Fries",
@@ -107,5 +118,6 @@
         "foto": "https://github.com/user-attachments/assets/151c98b6-d1c3-4e80-9d8d-54a24aabddee",
         "github": "https://github.com/marrieta1",
         "descr": "110 Gr de Papas Fritas estilo Crinkle con exterior crujiente e interior suave."
+        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
     }
 ] 
