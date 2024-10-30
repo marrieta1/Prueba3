@@ -66,7 +66,7 @@
     {
         "nombre": "Cheddar Bacon Fries",
         "precio": "$4.900",
-        "signo": "Papa fritas",
+        "signo": "Papafritas",
         "tipo": "Especial",
         "foto": "https://github.com/user-attachments/assets/d03f3a97-b0df-41dc-a41b-4446d29429c9",
         "github": "https://github.com/marrieta1",
@@ -75,7 +75,7 @@
     {
         "nombre": "CrunchyFries",
         "precio": "$3.190",
-        "signo": "Papa fritas",
+        "signo": "Papafritas",
         "tipo": "Para uno",
         "foto": "https://github.com/user-attachments/assets/280c1c16-4df5-4536-926c-4ae040f50b5c",
         "github": "https://github.com/marrieta1",
@@ -93,7 +93,7 @@
     {
         "nombre": "Bucket Just Fries",
         "precio": "$8.000",
-        "signo": "Papa fritas",
+        "signo": "Papafritas",
         "tipo": "Especial",
         "foto": "https://github.com/user-attachments/assets/afee4115-29ed-41c8-ba35-d41c589185b3",
         "github": "https://github.com/marrieta1",
@@ -102,7 +102,7 @@
     {
         "nombre": "American Fries",
         "precio": "$2.190",
-        "signo": "Papa fritas",
+        "signo": "Papafritas",
         "tipo": "Para uno",
         "foto": "https://github.com/user-attachments/assets/151c98b6-d1c3-4e80-9d8d-54a24aabddee",
         "github": "https://github.com/marrieta1",
