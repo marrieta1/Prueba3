@@ -5,7 +5,7 @@
         "fecha": "8.000",
         "signo": "Hamburguesa",
         "foto": "https://github.com/user-attachments/assets/40833ad0-eb97-410d-9dc6-989ca5275b2d",
-        "fotos": ["Brezel-0.jpg","Brezel-1.jpg","Brezel-2.jpg","Brezel-3.jpg"],
+        "fotos": ["tocino.jpg","rucula.jpg","champinones.jpg","cebolla.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -14,7 +14,7 @@
         "fecha": "10.200",
         "signo": "guarniciones",
         "foto": "https://github.com/user-attachments/assets/933af301-1887-4abc-a84c-9064f2354206",
-        "fotos": ["Kartoffel-0.jpg","Kartoffel-1.jpg","Kartoffel-2.jpg","Kartoffel-3.jpg"],
+        "fotos": ["champinones-2.jpg","tocino-3.jpg","rucula-2.jpg","cebolla-2.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -23,7 +23,7 @@
         "fecha": "$2.190",
         "signo": "Hamburguesa",
         "foto": "https://github.com/user-attachments/assets/151c98b6-d1c3-4e80-9d8d-54a24aabddee",
-        "fotos": ["Gulasch-0.jpg","Gulasch-1.jpg","Gulasch-2.jpg","Gulasch-3.jpg"],
+        "fotos": ["papas.jpg",".jpg","sal.jpg","aceite.jpg","honey.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -31,8 +31,8 @@
         "descripcion": "Carne Smash, Fondue de Queso Azul, Champiñones, Cebolla Grillada, Cebolla Crispy, Rúcula, Sasa Aioli y Honey Mustard",
         "fecha": "$7.500",
         "signo": "Hamburguesa",
-        "foto": "https://github.com/user-attachments/assets/8b6de460-ea0a-40e4-8063-977fa56d278c",
-        "fotos": ["Curry-0.jpg","Curry-1.jpg","Curry-2.jpg","Curry-3.jpg"],
+        "foto": "https://github.com/user-attachments/assets/f682b2c4-e63f-4382-a418-725a599b8b58",
+        "fotos": ["queso-azul.jpg","champinones-3.jpg","cebolla-3.jpg","rucula-3.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -40,8 +40,8 @@
         "descripcion": "Doble Carne Smash, Doble Fondue de Queso Azul, Champiñones, Cebolla Grillada, Cebolla Crispy, Rúcula, Salsa Aioli y Honey Mustard Sauce.",
         "fecha": "$9.700",
         "signo": "postres",
-        "foto": "https://github.com/user-attachments/assets/f682b2c4-e63f-4382-a418-725a599b8b58",
-        "fotos": ["Torte-0.jpg","Torte-1.jpg","Torte-2.jpg","Torte-3.jpg"],
+        "foto": "hhttps://github.com/user-attachments/assets/f682b2c4-e63f-4382-a418-725a599b8b58",
+        "fotos": ["queso-azul-2.jpg","champinones-4.jpg","rucula-4.jpg","honey-2.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -50,7 +50,7 @@
         "fecha": "$7.200",
         "signo": "Hamburguesa",
         "foto": "https://github.com/user-attachments/assets/09ed8c03-1a3a-4307-abdb-d33fb11c7286",
-        "fotos": ["Quarkins-0.jpg","Quarkins-1.jpg","Quarkins-2.jpg","Quarkins-3.jpg"],
+        "fotos": ["cheddar-2.jpg","tocino-3.jpg","cebolla-4.jpg","honey-3.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -59,7 +59,7 @@
         "fecha": "$9.400",
         "signo": "Hamburguesa",
         "foto": "https://github.com/user-attachments/assets/90662701-90c0-4875-9630-5087caa46a2d",
-        "fotos": ["Berliner-0.jpg","Berliner-1.jpg","Berliner-2.jpg","Berliner-3.jpg"],
+        "fotos": ["cheddar-6.jpg","tocino-4.jpg","cebolla-5.jpg","honey-4.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -68,7 +68,7 @@
         "fecha": "$7.200",
         "signo": "Hamburguesa",
         "foto": "https://github.com/user-attachments/assets/c7761938-c004-4ab9-8e86-c07feffd0739",
-        "fotos": ["Wild-0.jpg","Wild-1.jpg","Wild-2.jpg","Wild-3.jpg"],
+        "fotos": ["guacamole.jpg","cheddar-5.jpg","honey.jpg","sal.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -77,7 +77,7 @@
         "fecha": "$4.900",
         "signo": "Papas Fritas",
         "foto": "https://github.com/user-attachments/assets/d03f3a97-b0df-41dc-a41b-4446d29429c9",
-        "fotos": ["Sauerkraut-0.jpg","Sauerkraut-1.jpg","Sauerkraut-2.jpg","Sauerkraut-3.jpg"],
+        "fotos": ["papas-2.jpg","cheddar-4.jpg","sal-2.jpg","tocino-3.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -86,7 +86,7 @@
         "fecha": "$3.190",
         "signo": "Papas Fritas",
         "foto": "https://github.com/user-attachments/assets/280c1c16-4df5-4536-926c-4ae040f50b5c",
-        "fotos": ["Kase-0.jpg","Kase-1.jpg","Kase-2.jpg","Kase-3.jpg"],
+        "fotos": ["papas-4.jpg","sal-4.jpg","honey-2.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -95,7 +95,7 @@
         "fecha": "$9.000",
         "signo": "Hamburguesa",
         "foto": "https://github.com/user-attachments/assets/8d741553-f2f8-45ff-b25f-b80815d4a912",
-        "fotos": ["Stollen-0.jpg","Stollen-1.jpg","Stollen-2.jpg","Stollen-3.jpg"],
+        "fotos": ["tomate-4.jpg","lechuga-4.jpg","cheddar-7.jpg","honey.jpg"],
         "github": "https://github.com/marrieta1"
     },
     {
@@ -104,7 +104,7 @@
         "fecha": "$8.000",
         "signo": "Papas Fritas",
         "foto": "https://github.com/user-attachments/assets/afee4115-29ed-41c8-ba35-d41c589185b3",
-        "fotos": ["Kuchen-0.jpg","Kuchen-1.jpg","Kuchen-2.jpg","Kuchen-3.jpg"],
+        "fotos": ["papas-3.jpg","sal-3.jpg","honey-3.jpg"],
         "github": "https://github.com/marrieta1"
     }
 ]
